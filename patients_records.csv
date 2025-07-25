@@ -1,0 +1,2 @@
+HighBP,HighChol,CholCheck,BMI,Smoker,Stroke,HeartDiseaseorAttack,PhysActivity,Fruits,Veggies,HvyAlcoholConsump,AnyHealthcare,NoDocbcCost,GenHlth,MentHlth,PhysHlth,DiffWalk,Sex,Age,Education,Income,PatientName,PatientID,Prediction,PredictionCode,Probability_NotDiabetic,Probability_Prediabetic,Probability_Diabetic,Timestamp
+1,1,1,39.0,1,0,1,0,1,1,1,1,0,3,0.0,3.0,1,0,3,7,1,louis vuitton,cd31a1e6,Not Diabetic,0,38.02,28.58,33.4,2025-07-25 07:32:51
