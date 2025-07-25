@@ -1,0 +1,17 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore macOS hidden file
+.DS_Store
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore temporary files
+*.log
+.ipynb_checkpoints/
+
+# Ignore editor settings
+.vscode/
