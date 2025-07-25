@@ -7,9 +7,9 @@ Not Diabetic | Prediabetic | Diabetic
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-*(You can add screenshots here later)*
+![App Screenshot](screenshot_app.png)
 
 ---
 
