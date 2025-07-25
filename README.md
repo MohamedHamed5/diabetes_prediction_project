@@ -48,7 +48,7 @@ Supervised by: **Ahmed Mohamed** & **Mahmoud Hefny**
 
 ### Team Members:
 - Mohamed Hamed  
-- Ahmed Ali  
+- Ahmed Elawady 
 - Mariam Mohey  
 - Felopater Magdy  
 - Momen Elenany  
