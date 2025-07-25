@@ -1,19 +1,19 @@
-# 🧠 Diabetes Prediction Assistant
+# Diabetes Prediction Assistant
 
 An intelligent web app built with Streamlit that predicts diabetes status:  
-✅ Not Diabetic | ⚠️ Prediabetic | ❌ Diabetic
+Not Diabetic | Prediabetic | Diabetic
 
-🚀 [Try the App Live](https://diabetespredictionproject-kk8nwcgdr5dr4sxr4n2bmt.streamlit.app)
+[Try the App Live](https://diabetespredictionproject-kk8nwcgdr5dr4sxr4n2bmt.streamlit.app)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 *(You can add screenshots here later)*
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -24,7 +24,7 @@ An intelligent web app built with Streamlit that predicts diabetes status:
 
 ---
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ```bash
 git clone https://github.com/MohamedHamed5/diabetes_prediction_project.git
@@ -34,19 +34,19 @@ streamlit run code/app.py
 ```
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is a machine learning-based tool built for educational purposes only.  
 It is **not a replacement for clinical diagnosis**. Please consult a healthcare professional for medical advice.
 
 ---
 
-## 👥 Project Information
+## Project Information
 
 This project was built as part of the **NTI Machine Learning Track**  
 Supervised by: **Ahmed Mohamed** & **Mahmoud Hefny**
 
-### 🧑‍💻 Team Members:
+### Team Members:
 - Mohamed Hamed  
 - Ahmed Ali  
 - Mariam Mohey  
